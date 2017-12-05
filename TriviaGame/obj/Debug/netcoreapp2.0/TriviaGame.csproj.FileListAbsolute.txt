@@ -1,0 +1,11 @@
+C:\Users\nick\Documents\Visual Studio 2017\Projects\TriviaGame\TriviaGame\bin\Debug\netcoreapp2.0\TriviaGame.deps.json
+C:\Users\nick\Documents\Visual Studio 2017\Projects\TriviaGame\TriviaGame\bin\Debug\netcoreapp2.0\TriviaGame.runtimeconfig.json
+C:\Users\nick\Documents\Visual Studio 2017\Projects\TriviaGame\TriviaGame\bin\Debug\netcoreapp2.0\TriviaGame.runtimeconfig.dev.json
+C:\Users\nick\Documents\Visual Studio 2017\Projects\TriviaGame\TriviaGame\bin\Debug\netcoreapp2.0\TriviaGame.dll
+C:\Users\nick\Documents\Visual Studio 2017\Projects\TriviaGame\TriviaGame\bin\Debug\netcoreapp2.0\TriviaGame.pdb
+C:\Users\nick\Documents\Visual Studio 2017\Projects\TriviaGame\TriviaGame\obj\Debug\netcoreapp2.0\TriviaGame.csprojResolveAssemblyReference.cache
+C:\Users\nick\Documents\Visual Studio 2017\Projects\TriviaGame\TriviaGame\obj\Debug\netcoreapp2.0\TriviaGame.csproj.CoreCompileInputs.cache
+C:\Users\nick\Documents\Visual Studio 2017\Projects\TriviaGame\TriviaGame\obj\Debug\netcoreapp2.0\TriviaGame.AssemblyInfoInputs.cache
+C:\Users\nick\Documents\Visual Studio 2017\Projects\TriviaGame\TriviaGame\obj\Debug\netcoreapp2.0\TriviaGame.AssemblyInfo.cs
+C:\Users\nick\Documents\Visual Studio 2017\Projects\TriviaGame\TriviaGame\obj\Debug\netcoreapp2.0\TriviaGame.dll
+C:\Users\nick\Documents\Visual Studio 2017\Projects\TriviaGame\TriviaGame\obj\Debug\netcoreapp2.0\TriviaGame.pdb
